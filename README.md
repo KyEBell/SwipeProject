@@ -4,6 +4,10 @@ This Swipe Project is done with Vanilla JS and CSS, and acts as a clone to a cre
 
 Page Demo: 
 
+
+https://github.com/KyEBell/SwipeProject/assets/126792185/d981518d-0751-4f01-a4e6-46cd684fa3ee
+
+
 ![Screenshot 2023-07-29 at 3 32 07 PM](https://github.com/KyEBell/SwipeProject/assets/126792185/f4e5879b-af1b-401d-b042-ae863563d17b)
 ![Screenshot 2023-07-29 at 3 32 19 PM](https://github.com/KyEBell/SwipeProject/assets/126792185/3bc4f959-1ee8-402f-81d6-b2cc29eccb0e)
 ![Screenshot 2023-07-29 at 3 32 30 PM](https://github.com/KyEBell/SwipeProject/assets/126792185/76566491-43be-48b2-b719-cd202e7a08bc)
