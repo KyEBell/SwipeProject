@@ -5,11 +5,4 @@
 This Swipe Project is done with Vanilla JS and CSS, and acts as a clone to a credit card service homepage. 
 
 Page Demo: 
-(https://github.com/KyEBell/SwipeProject/assets/126792185/5e55f666-53fd-4515-ab4e-0cd8f6c31bf7)
-()
-(https://github.com/KyEBell/SwipeProject/assets/126792185/5e398736-32c7-410d-bfb5-a349ed24318f)
-
-
-
-https://github.com/KyEBell/SwipeProject/assets/126792185/017a7cfd-81c2-403c-834e-ef85dd23434b
 
